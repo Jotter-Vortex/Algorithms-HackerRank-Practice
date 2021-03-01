@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/mini-max-sum/problem
 import itertools
 # 효율적인 루핑을 위한 이터레이터를 만드는 함수
 
